@@ -1,0 +1,3 @@
+# Interpretation
+
+Diskussion der Ergebnisse.

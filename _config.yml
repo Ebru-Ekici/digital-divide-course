@@ -1,0 +1,11 @@
+
+title: "Digital Divide – Survey Data Analysis"
+author: "Data Campus"
+logo: assets/logo.png
+
+execute:
+  execute_notebooks: force
+
+html:
+  use_repository_button: true
+  use_issues_button: true

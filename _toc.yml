@@ -1,0 +1,9 @@
+
+format: jb-book
+root: intro
+chapters:
+  - file: content/01_data_loading
+  - file: content/02_data_cleaning
+  - file: content/03_analysis
+  - file: content/04_visualization
+  - file: content/05_interpretation
